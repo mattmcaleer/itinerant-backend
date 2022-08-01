@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Itinerary.create(id: 1, name: "Germany trip", start_date: "2025-01-01", end_date: "2025-02-02")
